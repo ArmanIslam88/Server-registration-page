@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: #028062; */
+    background-image: url("http://avindesign.com/am/abingmedia-website/assets/images/background-black-cover.jpg");
+    
+}
+#forget{
+    text-decoration: underline;
+    text-align:right;
+    color: #F8FAFB;  
+}
+#forget:hover{
+    color:red;  
+}
+p{
+    opacity: .3;
+    color:whitesmoke;
+}
+button:hover{
+    background-color: teal;
+}
